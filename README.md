@@ -2,6 +2,6 @@
 
 ## JavaScript
 
-| article                                                                                  |
-| ---------------------------------------------------------------------------------------- |
-| [var let const](https://github.com/MarioLuLu7/Notes-Share/JavaScript/1_var_let_const.md) |
+| article                                                                                              |
+| ---------------------------------------------------------------------------------------------------- |
+| [var let const](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/1_var_let_const.md) |
