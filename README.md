@@ -5,3 +5,8 @@
 | JavaScript                                                                                           |
 | ---------------------------------------------------------------------------------------------------- |
 | [var let const](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/1_var_let_const.md) |
+
+| Vue                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------ |
+| [vue-video-player HLS 加密](https://github.com/MarioLuLu7/Notes-Share/blob/master/Vue/1_vue_video_player.md) |
+| [vue 我认为的小技巧](https://github.com/MarioLuLu7/Notes-Share/blob/master/Vue/2_vue_skill.md)               |
