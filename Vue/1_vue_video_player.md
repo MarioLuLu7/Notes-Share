@@ -1,6 +1,6 @@
 # vue-video-player HLS 加密
 
-最近有一个项目，需要实现实时监控视频流播放，PC 和 mobile 端都要有此功能，由于 mobile 端我是使用 vue 写的，所以选用 vue-video-player。
+最近有一个项目，需要实现实时监控视频流播放，PC 和 mobile 端都要有此功能，由于 mobile 端我是使用 vue 写的，所以选用 vue-video-player。  
 这之前其实有一个插曲，本来我是打算使用 flv.js 两端同时实现的，但是移动端浏览器都不支持 flv 格式的视频流（flash 的原因）。写这篇文章的时候，我查到有人用 canvas 渲染的方法使得可以在移动端播放 flv，插件是 FlvPlayer.js，各位可以尝试一下。
 
 ## HLS
