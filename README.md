@@ -18,3 +18,4 @@
 | Node.js                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------- |
 | [简单得不能再简单的 Node 爬虫](https://github.com/MarioLuLu7/Notes-Share/blob/master/Node.js/1_pachong.md) |
+| [微信自动回复机器人](https://github.com/MarioLuLu7/wechat-robot)                                           |
