@@ -15,6 +15,6 @@
 
 ## Node.js
 
-| Node.js                                                                                                 |
-| ------------------------------------------------------------------------------------------------------- |
-| [简单得不能再简单的 Node 爬虫](https://github.com/MarioLuLu7/Notes-Share/blob/master/Node/1_pachong.md) |
+| Node.js                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------- |
+| [简单得不能再简单的 Node 爬虫](https://github.com/MarioLuLu7/Notes-Share/blob/master/Node.js/1_pachong.md) |
