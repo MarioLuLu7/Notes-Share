@@ -65,7 +65,9 @@ s.endsWith('d', 2) // false
 ```
 
 includes：查找字符是否在其中
+
 startsWith: 查找字符是否在头部
+
 endsWith: 查找字符是否在尾部
 
 三个方法都能接受第二个参数，includes 和 startWith 表示从第几个位数开始查找，endsWith 表示前几个位数的字符。
@@ -79,3 +81,25 @@ s.charCodeAt(1) // 98
 ```
 
 无法转换码数超过 0XFFFF 位数的字符。需要用到 codePointAt。
+
+### repeat
+
+重复输出指定字符串，数字向下取整，若为 0 或`NAN`，输出空字符串，若参数能转为数字，则能输出，其他情况下报错。
+
+```
+'a'.repeat(3) // "aaa"
+
+```
+
+### trim, trimStart, trimEnd
+
+去除字符串前后空格，`trimStart`去除头部空格，`trimEnd`去除尾部空格。
+
+### padStart, padEnd
+
+补全字符串至长度为某个值。
+
+```
+'a'.padStart(6,'bcd') // bcdbca
+'a'.padEnd(6,'bcd') // abcdbc
+```
