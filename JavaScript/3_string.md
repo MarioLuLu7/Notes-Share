@@ -72,7 +72,7 @@ endsWith: 查找字符是否在尾部
 
 三个方法都能接受第二个参数，includes 和 startWith 表示从第几个位数开始查找，endsWith 表示前几个位数的字符。
 
-### s.charCodeAt, s.codePointAt
+### charCodeAt, codePointAt
 
 获取位数的 unicode 字符,默认为 0。
 
