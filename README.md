@@ -2,11 +2,12 @@
 
 ## JavaScript
 
-| JavaScript                                                                                           |
-| ---------------------------------------------------------------------------------------------------- |
-| [var let const](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/1_var_let_const.md) |
-| [解构赋值](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/2_destructuring.md)      |
-| [String 和实例的方法](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/3_string.md)  |
+| JavaScript                                                                                               |
+| -------------------------------------------------------------------------------------------------------- |
+| [var let const](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/1_var_let_const.md)     |
+| [解构赋值](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/2_destructuring.md)          |
+| [String 和实例的方法](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/3_string.md)      |
+| [function 值传递](https://github.com/MarioLuLu7/Notes-Share/blob/master/JavaScript/6_function_params.md) |
 
 ## Vue
 
